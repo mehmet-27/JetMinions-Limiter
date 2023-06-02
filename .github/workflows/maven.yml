@@ -29,8 +29,8 @@ jobs:
         cache: maven
     - name: Build with Maven
       run: mvn -B package --file pom.xml
-    - name: Upload Build Artifact
-      uses: actions/upload-artifact@v3
-      with:
-        name: JetsMinions-Limiter
-        path: target/
+#    - name: Upload Build Artifact
+#      uses: actions/upload-artifact@v3
+#      with:
+#        name: JetsMinions-Limiter
+#        path: target/
