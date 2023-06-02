@@ -1,4 +1,4 @@
-name: JetsMinions-Fixer
+name: JetsMinions-Limiter
 author: [Geik, aisnhappy, Mehmet27]
 main: xyz.geik.minion.fixer.Main
 version: 1.0.1
